@@ -123,10 +123,10 @@ menu:
         link: 'https://minicomp.github.io/wiki/wax/'
       - label: 'Credits'
         link: '/credits/'
-  - label: 'Exhibits'
+  - label: 'Reports and Exhibitions'
     sub:
-      - label: 'Inline Parallax Image'
-        link: '/exhibits/a/'
+      - label: 'Significance Reports 2023'
+        link: '/significance-reports-2023/'
   - label: 'Browse'
     link: '/collection/'
   - label: 'Search'
