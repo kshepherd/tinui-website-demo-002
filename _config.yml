@@ -22,7 +22,7 @@ description:      'The Tinui Museum Collection spans over 150 years of rural lif
 url:              'https://minicomp.github.io'
 baseurl:          '/wax'
 copyright:        'Copyright Tinui Museum 2023'
-logo:             '/assets/logo.png'
+logo:             '/assets/postoffice.png'
 default_thumb:    '/assets/default.png'
 
 # ---------------------------------------------------------------
