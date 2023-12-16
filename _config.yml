@@ -23,7 +23,7 @@ url:              'https://minicomp.github.io'
 baseurl:          '/wax'
 copyright:        'Copyright Tinui Museum 2023'
 logo:             '/assets/postoffice.png'
-default_thumb:    '/assets/default.png'
+default_thumb:    '/assets/archive-icon.jpg'
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS
