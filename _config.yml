@@ -59,13 +59,13 @@ kramdown:
 collections:
   exhibits:
     output: true
-  qatar: # name of collection
-    output: true # makes sure pages are output as html files
-    layout: 'qatar_item' # the layout for the pages to use
-    metadata:
-      source: 'qatar.csv' # path to the metadata file within `_data`
-    images:
-      source: 'raw_images/qatar' # path to the directory of images within `_data`
+#  qatar: # name of collection
+#    output: true # makes sure pages are output as html files
+#    layout: 'qatar_item' # the layout for the pages to use
+#    metadata:
+#      source: 'qatar.csv' # path to the metadata file within `_data`
+#    images:
+#      source: 'raw_images/qatar' # path to the directory of images within `_data`
   tinui: # name of collection
     output: true
     layout: 'tinui_item'
@@ -85,15 +85,15 @@ search:
   main:
     index: '/search/index.json' # file the index will get written to
     collections:
-      qatar:
-        content: false # whether or not to index page content
-        fields: # the metadata fields to index
-          - artist
-          - location
-          - label
-          - _date
-          - object_type
-          - current_location
+#      qatar:
+#        content: false # whether or not to index page content
+#        fields: # the metadata fields to index
+#          - artist
+#          - location
+#          - label
+#          - _date
+#          - object_type
+#          - current_location
       tinui:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
@@ -127,14 +127,10 @@ menu:
     sub:
       - label: 'Inline Parallax Image'
         link: '/exhibits/a/'
-      - label: 'Inline Image References'
-        link: '/exhibits/b/'
   - label: 'Browse'
     link: '/collection/'
   - label: 'Search'
     link: '/search/'
-  - label: 'Reuse'
-    link: '/reuse/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
@@ -150,6 +146,6 @@ footer:
     - label: 'Wiki'
       link: 'https://minicomp.github.io/wiki/wax/'
   logos:
-    - img: '/img/logo.png'
+    - img: '/assets/postoffice.jpg'
 
 # FIN
