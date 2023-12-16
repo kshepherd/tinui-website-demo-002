@@ -72,7 +72,7 @@ collections:
     metadata:
       source: 'tinui.csv'
     images:
-      source: 'raw_images/_tinui'
+      source: 'raw_images/tinui'
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
 # --------------------------------------------------------------
