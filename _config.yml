@@ -17,11 +17,11 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
-description:      'Minimal Exhibitions with Jekyll'
+title:            'Tinui Heritage Objects Collection'
+description:      'The Tinui Museum Collection spans over 150 years of rural life in New Zealand.'
 url:              'https://minicomp.github.io'
 baseurl:          '/wax'
-copyright:        'Example copyright org, 2023'
+copyright:        'Copyright Tinui Museum 2023'
 logo:             '/assets/logo.png'
 default_thumb:    '/assets/default.png'
 
@@ -66,7 +66,13 @@ collections:
       source: 'qatar.csv' # path to the metadata file within `_data`
     images:
       source: 'raw_images/qatar' # path to the directory of images within `_data`
-
+  tinui: # name of collection
+    output: true
+    layout: 'tinui_item'
+    metadata:
+      source: 'tinui.csv'
+    images:
+      source: 'raw_images/_tinui'
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
 # --------------------------------------------------------------
@@ -88,7 +94,19 @@ search:
           - _date
           - object_type
           - current_location
-
+      tinui:
+        content: false # whether or not to index page content
+        fields: # the metadata fields to index
+          - subjects
+          - collector
+          - creator
+          - description
+          - extent
+          - condition
+          - materials
+          - notes
+          - pid
+          - archive_number
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
 # --------------------------------------------------------------
