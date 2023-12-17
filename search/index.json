@@ -467,6 +467,7 @@ layout: none
     "collector": "Unknown",
     "materials": "Metal",
     "collection": "tinui",
+    "thumbnail": "/img/derivatives/simple/130/thumbnail.jpg",
     "permalink": "/tinui/130",
     "lunr_id": 35
   },
@@ -1445,6 +1446,7 @@ layout: none
     "collector": "Belliss Family",
     "materials": "Wool, felt",
     "collection": "tinui",
+    "thumbnail": "/img/derivatives/simple/199/thumbnail.jpg",
     "permalink": "/tinui/199",
     "lunr_id": 110
   },
@@ -1550,6 +1552,7 @@ layout: none
     "collector": "Unknown",
     "materials": "Cardboard, ink",
     "collection": "tinui",
+    "thumbnail": "/img/derivatives/simple/205/thumbnail.jpg",
     "permalink": "/tinui/205",
     "lunr_id": 118
   },
@@ -4509,6 +4512,7 @@ layout: none
     "collector": "Grant Perry",
     "materials": "Paper",
     "collection": "tinui",
+    "thumbnail": "/img/derivatives/simple/41/thumbnail.jpg",
     "permalink": "/tinui/41",
     "lunr_id": 345
   },
@@ -5250,6 +5254,7 @@ layout: none
     "collector": "Unknown",
     "materials": "Paper",
     "collection": "tinui",
+    "thumbnail": "/img/derivatives/simple/461/thumbnail.jpg",
     "permalink": "/tinui/461",
     "lunr_id": 402
   },
@@ -6993,6 +6998,7 @@ layout: none
     "collector": "E.S. Belliss",
     "materials": "Fabric, Leather, Metal, Thread",
     "collection": "tinui",
+    "thumbnail": "/img/derivatives/simple/582/thumbnail.jpg",
     "permalink": "/tinui/582",
     "lunr_id": 536
   },
@@ -7586,6 +7592,7 @@ layout: none
     "collector": "Unknown",
     "materials": "Leather, Metal, String, Thread",
     "collection": "tinui",
+    "thumbnail": "/img/derivatives/simple/623/thumbnail.jpg",
     "permalink": "/tinui/623",
     "lunr_id": 582
   },
@@ -7736,6 +7743,7 @@ layout: none
     "collector": "Unknown",
     "materials": "Fabric, Metal, Leather, Thread",
     "collection": "tinui",
+    "thumbnail": "/img/derivatives/simple/634/thumbnail.jpg",
     "permalink": "/tinui/634",
     "lunr_id": 594
   },
@@ -8606,6 +8614,7 @@ layout: none
     "collector": "Unknown",
     "materials": "Wood, Glass, Paper, Metal, Ink",
     "collection": "tinui",
+    "thumbnail": "/img/derivatives/simple/695/thumbnail.jpg",
     "permalink": "/tinui/695",
     "lunr_id": 661
   },
@@ -9519,6 +9528,7 @@ layout: none
     "collector": "Unknown",
     "materials": "Glass",
     "collection": "tinui",
+    "thumbnail": "/img/derivatives/simple/758/thumbnail.jpg",
     "permalink": "/tinui/758",
     "lunr_id": 731
   },
