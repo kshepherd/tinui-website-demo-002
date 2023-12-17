@@ -23,7 +23,7 @@ url:              'https://kshepherd.github.io'
 baseurl:          '/tinui-website-demo-001'
 copyright:        'Copyright Tinui Museum 2023'
 logo:             '/assets/postoffice.png'
-default_thumb:    '/assets/archive-icon.jpg'
+default_thumb:    '/assets/default.png'
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS
