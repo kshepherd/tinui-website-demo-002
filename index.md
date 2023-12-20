@@ -17,4 +17,4 @@ rural life in New Zealand.
 ### Browse the Collection
 
 #### By Item Type
-{% include collection_gallery.html collection='tinui' %}
+{% include collection_gallery.html collection='tinui' facet_by='subjects*|materials*' %}

@@ -5,4 +5,4 @@ permalink: /collection/
 ---
 
 ## Browse
-{% include collection_gallery.html facet_by='key' collection='tinui' %}
+{% include collection_gallery.html facet_by='subjects*|materials*' collection='tinui' num_column=4 %}

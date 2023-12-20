@@ -23,13 +23,13 @@
 {%- endcapture -%}
 
 <div class='wax-parallax full-width {% if page.banner %}top-banner{% else %}inline-parallax{% endif %}'>
-  <div class='parallax-image' style="{{ style | strip }}" {{ onclick | strip }}></div>
-
-  {% if item.label %}
-  <div class='parallax-caption'>
-    <div class='wax-inline-container'>
-      Above: <a href='{{ item.url | absolute_url }}'>{{ item.label }}</a>
-    </div>
-  </div>
-  {% endif %}
+  <div class="image" style="background-image: url('/tinui-website-demo-002/img/postoffice.jpg');
+  background-position: 45% 25%;
+  cursor: pointer;
+  height: 300px !important; background-repeat: no-repeat;"></div>
 </div>
+
+
+
+
+

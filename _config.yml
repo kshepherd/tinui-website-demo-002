@@ -20,7 +20,7 @@
 title:            'Tinui Heritage Objects Collection'
 description:      'The Tinui Museum Collection spans over 150 years of rural life in New Zealand.'
 url:              'https://kshepherd.github.io'
-baseurl:          '/tinui-website-demo-001'
+baseurl:          '/tinui-website-demo-002'
 copyright:        'Copyright Tinui Museum 2023'
 logo:             '/assets/postoffice.png'
 default_thumb:    '/assets/default.png'
